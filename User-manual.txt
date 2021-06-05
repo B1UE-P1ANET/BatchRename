@@ -1,0 +1,1 @@
+copy this .bat to folder that you want to rename files.
